@@ -5,7 +5,7 @@ import requests
 import key
 
 payload = {
-    "token" : key.token,
+    "token" : key.TOKEN,
     "pretty" : "1"
 }
 

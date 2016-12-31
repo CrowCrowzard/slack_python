@@ -6,7 +6,7 @@ import key
 
 def main():
     payload = {
-        "token" : key.token,
+        "token" : key.TOKEN,
         "channel" : "#hogr",
         "text" : "Hello",
         "username" : "mybot",
